@@ -1,0 +1,65 @@
+header{
+    background-color: #93B5ED ;
+    height: 230px;
+    text-align: center;
+}
+
+#ironman{
+    width: 100px;
+    height: 147px;
+    margin-top: 25px;
+}
+
+h1{
+    color: #4b0908;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(174, 182, 191);
+    height: 45px;
+    letter-spacing: 8px;
+}
+
+span{
+    font-weight: bold;
+    text-align: left;
+}
+
+.informacion{
+    line-height: 25px;
+}
+
+#title-dif{
+    font-style: italic;
+}
+
+h2{
+    background-color: rgb(174, 182, 191);
+    text-align: left;
+    align-items: center;
+    color: #4b0908;
+    letter-spacing: 8px;
+}
+
+div{
+    margin-top: 150px;
+    margin-right: 225px;
+    margin-bottom: 150px;
+    margin-left: 225px;
+}
+
+
+footer{
+    background-color: #93B5ED;
+    height: 30px;
+    text-align: center;
+}
+
+.name{
+    font-family: sans-serif;
+} 
+
+#redes{
+    width: 25px;
+    height: 25px;   
+}
